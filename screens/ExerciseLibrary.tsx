@@ -8,7 +8,7 @@ const { width } = Dimensions.get('window');
 const exercises = [
   {
     id: 1,
-    name: 'Push-ups',
+    name: 'Push-ups-yo',
     muscle: 'Chest',
     difficulty: 'Beginner',
     animation: 'https://example.com/pushup-animation.gif',
@@ -22,7 +22,7 @@ const exercises = [
   },
   {
     id: 3,
-    name: 'Pull-ups',
+    name: 'Pull-ups Extreme',
     muscle: 'Back',
     difficulty: 'Intermediate',
     animation: 'https://example.com/pullup-animation.gif',
